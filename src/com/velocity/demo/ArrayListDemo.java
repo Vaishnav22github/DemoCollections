@@ -16,6 +16,9 @@ public class ArrayListDemo {
 		System.out.println(s+"Vaishnav");
 		System.out.println(s+"123");
 		System.out.println(s+"Patil");
+		System.out.println("Hello");
+		System.out.println("All");
+
 	}
   }
 }
