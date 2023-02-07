@@ -13,9 +13,8 @@ public class ArrayListDemo {
 		list.add("Patil");
 		
 		for(String s : list) {
-			System.out.println("s+"Vaishnav");
-		System.out.println(s);
-		System.out.println(s+"Patil");
+		System.out.println("Hello");
+		System.out.println("All");
 	}
   }
 }
