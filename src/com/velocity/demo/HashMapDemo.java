@@ -13,6 +13,7 @@ public class HashMapDemo {
 		map.put(103,"Patil");
 		
 		System.out.println(map);
+		System.out.println("Hello Friend");
 	}
 
 }
