@@ -7,12 +7,12 @@ public class HashMapDemo {
 
 	public static void main(String[] args) {
 
-		Map<Integer,String> map = new HashMap<Integer,String>();
-		map.put(101,"Vaishnav");
-		map.put(102,"Sanjay");
-		map.put(103,"Patil");
+		Map<Integer,Integer> map = new HashMap<Integer,Integer>();
+		map.put(101,123123);
+		map.put(102,321311);
+		map.put(103,456321);
 		
 		System.out.println(map);
 	}
-
 }
+
